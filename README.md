@@ -35,7 +35,7 @@ Desde las opciones de complementos podemos ver a detalle lo que ofrece instadown
 
 ![by @neocarvajal](https://raw.githubusercontent.com/neocarvajal/instadown/master/picture/openimageontab.png "instagram profile image select")
 
-- En la barra de herramientas de firefox contamos con pequeño icono el cual deberemos precionar para que se descargue la imagen a la pc.
+- En la barra de herramientas de firefox contamos con pequeño icono el cual deberemos presionar para que se descargue la imagen a la pc.
 
 # icono referencia :
 
@@ -44,7 +44,7 @@ Desde las opciones de complementos podemos ver a detalle lo que ofrece instadown
 # Imagen descargada:
 ![by @neocarvajal](https://raw.githubusercontent.com/neocarvajal/instadown/master/picture/download%20image.png "imagen descargada")
 
-- Por ultimo podemos verificar en nuestra carpeta de descarga por defecto del navegador:
+- Por último podemos verificar en nuestra carpeta de descarga por defecto del navegador:
 	
 ![by @neocarvajal](https://github.com/neocarvajal/instadown/blob/master/picture/openimage.png "imagen")
 
