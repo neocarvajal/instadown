@@ -1,13 +1,14 @@
 ![by @neocarvajal](https://raw.githubusercontent.com/neocarvajal/instadown/master/picture/banner.png "instadown banner")
 
 # Información
-Esta extensión aun se en cuentra en fase de prueba
+Esta extensión aun se en cuentra en fase de prueba !
 
 # Funciones Disponibles
-- Descargar imagenes al computador desde el perfil de cualquier usuario en instagram desde la version web.
+- Descargar imágenes al computador desde el perfil de cualquier usuario en instagram desde la version web.
 
 # Pasos para cargar instadown en mozilla
 - - - - - - - - - - - - - - - - - - - - - - - - -
+
 - Abrir el navegador.
 
  ![by @neocarvajal](https://raw.githubusercontent.com/neocarvajal/instadown/master/picture/mozilla_open.png "Abrir firefox")
@@ -18,7 +19,7 @@ Esta extensión aun se en cuentra en fase de prueba
 
 ![by @neocarvajal](https://raw.githubusercontent.com/neocarvajal/instadown/master/picture/aboutdebugging.png "about debugging")
 
-- Para cargar instadown debes precionar en el boton "Load Temporary Add-on" ubicado en la esquina superior derecha, lo cual desplegara una nueva ventana para buscar la carpeta donde has descargardo instadown.
+- Para cargar instadown debes presionar en el botón "Load Temporary Add-on" ubicado en la esquina superior derecha, lo cual desplegara una nueva ventana para buscar la carpeta donde has descargardo instadown.
 	
 ![by @neocarvajal](https://raw.githubusercontent.com/neocarvajal/instadown/master/picture/aboutdebugginginstadownmanifest.png "instadown manifest.json")
 
