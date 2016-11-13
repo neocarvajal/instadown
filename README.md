@@ -1,2 +1,8 @@
 # instadown
-firefox add-on for download files from instagram
+
+## What it does
+
+This extension just includes:
+
+* a content script, "instadown.js", that lets you open any image from
+instagran to download

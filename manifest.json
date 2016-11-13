@@ -1,0 +1,40 @@
+{
+
+  "description": "Adds a browser action icon to the toolbar. Click the button to download any picture from instagram web page",
+  "manifest_version": 2,
+  "name": "Instadown",
+  "version": "1.0",
+  "homepage_url": "https://github.com/neocarvajal/instadown",
+  "icons": {
+    "48": "icons/instadown_shadown.png"
+  },
+
+  "applications": {
+    "gecko": {
+      "id": "neocarvajal12@gmail.com",
+      "strict_min_version": "45.0"
+    }
+  },
+  
+    "permissions": [    
+    "activeTab",
+    "downloads"    
+  ],  
+  
+    "background": {
+      "scripts": ["instadown.js"]
+    },
+    
+    "content_scripts": [
+    {
+      "matches": ["*://*.instagram.com/p/*"],
+      "js": ["content_scripts/instacontent.js"]
+    }
+  ],
+  
+   "browser_action": {
+     "browser_style": true,
+     "default_icon": "icons/instadown_shadown.png"     
+  }
+  
+}
