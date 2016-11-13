@@ -1,7 +1,7 @@
 ![by @neocarvajal](https://raw.githubusercontent.com/neocarvajal/instadown/master/picture/banner.png "instadown banner")
 
 # Información
-Esta extención aun se en cuentra en fase de prueba
+Esta extensión aun se en cuentra en fase de prueba
 
 # Funciones Disponibles
 - Descargar imagenes al computador desde el perfil de cualquier usuario en instagram desde la version web.
