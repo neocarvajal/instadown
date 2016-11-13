@@ -1,10 +1,10 @@
-![by @neocarvajal](https://raw.githubusercontent.com/neocarvajal/TR10-TOOL/master/IMAGES/TR10-TOOL-BANNER.png "instadown banner")
+![by @neocarvajal](https://raw.githubusercontent.com/neocarvajal/instadown/master/picture/banner.png "instadown banner")
 
 # Información
 Esta extención aun se en cuentra en fase de prueba
 
 # Funciones Disponibles
-1. - Descargar imagenes al computador desde el perfil de cualquier usuario en instagram desde la version web.
+- Descargar imagenes al computador desde el perfil de cualquier usuario en instagram desde la version web.
 
 # Pasos para cargar instadown en mozilla
 - - - - - - - - - - - - - - - - - - - - - - - - -
