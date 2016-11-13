@@ -12,7 +12,7 @@ Esta extensión aun se en cuentra en fase de prueba
 
  ![by @neocarvajal](https://raw.githubusercontent.com/neocarvajal/instadown/master/picture/mozilla_open.png "Abrir firefox")
 
-- Firefox permite cargar extenciones de forma temporal accediendo a la siguiente dirección desde la barra de navegación:
+- Firefox permite cargar complementos (extensiones) de forma temporal accediendo a la siguiente dirección desde la barra de navegación:
 
 ##### about:debugging
 
