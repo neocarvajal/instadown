@@ -3,7 +3,7 @@
 # Información
 Esta extensión aun se encuentra en fase de prueba !
 
-# Funciones Disponibles
+Funciones Disponibles
 - Descargar imágenes al computador desde el perfil de cualquier usuario en instagram desde la version web.
 
 # Pasos para cargar instadown en mozilla
