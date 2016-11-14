@@ -50,5 +50,14 @@ Desde las opciones de complementos podemos ver a detalle lo que ofrece instadown
 
 [@neocarvajal]: https://twitter.com/neocarvajal
 
+# Colaboradores
+
+Si deseas ayudar para mejorar este complemento puedes clonar esta repo y empezar por algunas tareas descritas en la siguiente lista de cosas por hacer:
+
+- Firmar complemento con nss : https://developer.mozilla.org/en-US/docs/Signing_an_extension
+- Crear un install manifest (install.rdf) : https://developer.mozilla.org/en-US/Add-ons/Install_Manifests
+- Mejorar el background script (instadown.js) para permitir la descarga de archivos .mp4
+- Permitir la descargar de archivos sin necesidad de abrirlos en una nueva ventana o pestaña 
+
 # Soporte/Contacto
 Para discusiones en cuanto al desarrollo y mejoras de la extensión puedes encontrarme en #Twitter como [@neocarvajal][]
