@@ -4,7 +4,7 @@
 Esta extensión aun se encuentra en fase de prueba !
 
 Funciones Disponibles
-- Descargar imágenes al computador desde el perfil de cualquier usuario en instagram desde la version web.
+- Descargar imágenes o videos al computador desde el perfil de cualquier usuario en instagram desde la version web.
 
 # Pasos para cargar instadown en mozilla
 - - - - - - - - - - - - - - - - - - - - - - - - -
@@ -31,7 +31,7 @@ Desde las opciones de complementos podemos ver a detalle lo que ofrece instadown
 
 ![by @neocarvajal](https://raw.githubusercontent.com/neocarvajal/instadown/master/picture/aboutaddonsinstadown.png "add-on instadown")
 
-- Luego podemos dirigirnos al perfil de cualquier usuario en instagram para seleccionar la imagen que deseamos descargar a nuestra pc. Una vez sepamos que imagen descargar necesitaremos abrirla en una nueva pestaña o ventana:
+- Luego podemos dirigirnos al perfil de cualquier usuario en instagram para seleccionar la imagen o video que deseamos descargar a nuestra pc. Una vez sepamos que archivo descargar necesitaremos abrirlo en una nueva pestaña o ventana:
 
 ![by @neocarvajal](https://raw.githubusercontent.com/neocarvajal/instadown/master/picture/openimageontab.png "instagram profile image select")
 
@@ -47,6 +47,10 @@ Desde las opciones de complementos podemos ver a detalle lo que ofrece instadown
 - Por último podemos verificar en nuestra carpeta de descarga por defecto del navegador:
 	
 ![by @neocarvajal](https://github.com/neocarvajal/instadown/blob/master/picture/openimage.png "imagen")
+
+# Video descargado:
+
+![by @neocarvajal](https://github.com/neocarvajal/instadown/blob/master/picture/openimage.png "video")
 
 [@neocarvajal]: https://twitter.com/neocarvajal
 
