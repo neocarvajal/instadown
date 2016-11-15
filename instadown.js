@@ -2,8 +2,7 @@
  * background_script 
  * developer: @neocarvajal
  * site:https://github.com/neocarvajal
- * */    
-
+ * */
 var portFromCS;
 
 function connected(p) {
@@ -14,7 +13,8 @@ function connected(p) {
     chrome.browserAction.onClicked.addListener(instadownload);
     function instadownload(){
         // get raw url on variable
-        var imageURL = m.url;        
+        var imageURL = m.url;    
+        console.log("url from content_script " + imageURL);   
         // download api options
         function onStartedDownload(id) {
             console.log('Started downloading id:' + id);
@@ -24,7 +24,7 @@ function connected(p) {
           console.log('Download failed:' + error);
         }       
         // set name for image file
-        var imageName = nameGenerator(10);
+        var imageName = nameGenerator(imageURL, 10);
         // download image with download API
         var downloading = browser.downloads.download({
           url : imageURL,
@@ -44,11 +44,24 @@ function connected(p) {
 // add listener for browser connect runtime
 browser.runtime.onConnect.addListener(connected);
 
-function nameGenerator(long)
+function nameGenerator(url, long)
 {
   var caracteres = "abcdefghijkmnpqrtuvwxyzABCDEFGHIJKLMNPQRTUVWXYZ2346789";
-  var fileExt = [".jpg",",mp4"];
   var file = "";
-  for (i=0; i<long; i++) file += caracteres.charAt(Math.floor(Math.random()*caracteres.length));
-  return file + fileExt[0];
+  var imgName = "";
+  if(url.search("jpg")!=-1){  
+    var ext = '.jpg';
+    var imgName = fileExt(ext);
+    console.log("jpg file detected " + imgName);
+    return imgName;
+  }else if(url.search("mp4")!=-1){
+    var ext = '.mp4';
+    var imgName = fileExt(ext);
+    console.log("mp4 file detected " + imgName);
+    return imgName;
+  }  
+  function fileExt(ext){
+    for (i=0; i<long; i++) file += caracteres.charAt(Math.floor(Math.random()*caracteres.length));
+    return file + ext;
+  }
 }
