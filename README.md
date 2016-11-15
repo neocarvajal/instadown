@@ -50,7 +50,7 @@ Desde las opciones de complementos podemos ver a detalle lo que ofrece instadown
 
 # Video descargado:
 
-![by @neocarvajal](https://github.com/neocarvajal/instadown/blob/master/picture/openimage.png "video")
+![by @neocarvajal](https://raw.githubusercontent.com/neocarvajal/instadown/master/picture/video.png "video")
 
 [@neocarvajal]: https://twitter.com/neocarvajal
 
